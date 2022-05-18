@@ -26,6 +26,12 @@ Bazı nmap komutları
 -  -sS :sync/ senkronizasyon taraması için   
 - -p :belirtilen port ya da port aralığını tarar
 - --top- x: ilk x portu tarar
-- 
+-  196.168.1.0/24 parametresi irl ağdaki tüm  IPlerin portlarını  tarar 
+> bu işlem ilk yaptığımızda uzun sürebilir IPleri daha doğrusu pc adını  bulduğumuzda işimiz kolaylaşacak 
+
+
+
+
+
             
            
