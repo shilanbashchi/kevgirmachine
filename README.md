@@ -26,9 +26,14 @@ Bazı nmap komutları
 -  -sS :sync/ senkronizasyon taraması için   
 - -p :belirtilen port ya da port aralığını tarar
 - --top- x: ilk x portu tarar
+- sudo : super user do (root yetkisi)
+- -sT :TCP taraması 
 -  196.168.1.0/24 parametresi irl ağdaki tüm  IPlerin portlarını  tarar 
-> bu işlem ilk yaptığımızda uzun sürebilir IPleri daha doğrusu pc adını  bulduğumuzda işimiz kolaylaşacak 
-
+> bu işlem ilk yaptığımızda uzun sürebilir IPyi  daha doğrusu pc adını  bulduğumuzda IP yi keşfetmiş olacağız ve  işimiz kolaylaşacak 
+- aşağıda  satırları okuduğumzda host ismi olarak "canyoupwnme" ismini görüyoruz bu da doğru IPyi bulduğumuzu gösteriyor 
+![](https://github.com/shilanbashchi/images/blob/main/VirtualBox_Kali-Linux-2021.%20canyoupwnme.host.png)
+- diğer satırlara baktığımızda title olarak KEVGİR VM adını görüyoruz 
+![](https://github.com/shilanbashchi/images/blob/main/VirtualBox_Kali-Linux-2021.4-virtualbox-amd64_18_05_2022_17_06_34.png)
 
 
 
